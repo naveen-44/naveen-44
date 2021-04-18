@@ -4,9 +4,10 @@
 - 📫 Mail me at rajanice1996@gmail.com or ping me in whatsapp: 9791975759
 
 I practice a lot at these sites and am planning to upload all codes that I solve in them
-- projecteuler
-- codeforces
-- codechef
-- google codejam
+- ProjectEuler
+- Codeforces
+- Codechef
+- Google Codejam
 - CSES
-- hackerrank
+- Hackerrank
+- SPOJ
