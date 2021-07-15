@@ -1,14 +1,6 @@
-- 👋 Hi, I’m @naveen-44
-- 👀 I’m interested in problem solving, mathematics(Combinatorics and Number theory), Neural networks(CNN, ELM)
-- 🌱 I’m currently studying M.Tech Data Science and learning to do some competitive programming
-- 📫 Mail me at rajanice1996@gmail.com or ping me in whatsapp: 9791975759
+- 👋 Hi, I’m Naveen Rajan P
+- 👀 I’m interested in problem solving, mathematics(Combinatorics and Number theory), Neural Networks(CNN, ELM)
+- 🌱 I’m currently a Data Engineering Intern at Essentia Softserv LLP
+- 📫 Mail me at naveen.rajan@essentia.dev or ping me in whatsapp: 9791975759
 
-I practice a lot at these sites and am planning to upload most codes that I solve in them
-- ProjectEuler
-- Codeforces
-- Codechef
-- Google Codejam
-- CSES
-- Hackerrank
-- SPOJ
-- Kaggle
+Working on Web Scraping and learning PySpark applications right now.
